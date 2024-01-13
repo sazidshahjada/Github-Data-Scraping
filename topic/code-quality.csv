@@ -1,0 +1,21 @@
+username,user link,repo name,repo link,star
+realm,https://github.com/realm,SwiftLint,https://github.com/realm/SwiftLint,18k
+facebook,https://github.com/facebook,infer,https://github.com/facebook/infer,14.5k
+analysis-tools-dev,https://github.com/analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis,12.5k
+Kristories,https://github.com/Kristories,awesome-guidelines,https://github.com/Kristories/awesome-guidelines,9.2k
+federico-busato,https://github.com/federico-busato,Modern-CPP-Programming,https://github.com/federico-busato/Modern-CPP-Programming,8.5k
+SonarSource,https://github.com/SonarSource,sonarqube,https://github.com/SonarSource/sonarqube,8.3k
+checkstyle,https://github.com/checkstyle,checkstyle,https://github.com/checkstyle/checkstyle,8k
+reviewdog,https://github.com/reviewdog,reviewdog,https://github.com/reviewdog/reviewdog,7k
+facebook,https://github.com/facebook,pyre-check,https://github.com/facebook/pyre-check,6.6k
+detekt,https://github.com/detekt,detekt,https://github.com/detekt/detekt,5.9k
+import-js,https://github.com/import-js,eslint-plugin-import,https://github.com/import-js/eslint-plugin-import,5.1k
+trekhleb,https://github.com/trekhleb,state-of-the-art-shitcode,https://github.com/trekhleb/state-of-the-art-shitcode,5.1k
+pylint-dev,https://github.com/pylint-dev,pylint,https://github.com/pylint-dev/pylint,5k
+simplecov-ruby,https://github.com/simplecov-ruby,simplecov,https://github.com/simplecov-ruby/simplecov,4.7k
+pmd,https://github.com/pmd,pmd,https://github.com/pmd/pmd,4.5k
+phpro,https://github.com/phpro,grumphp,https://github.com/phpro/grumphp,4k
+kucherenko,https://github.com/kucherenko,jscpd,https://github.com/kucherenko/jscpd,3.3k
+htmlhint,https://github.com/htmlhint,HTMLHint,https://github.com/htmlhint/HTMLHint,3k
+codeclimate,https://github.com/codeclimate,codeclimate,https://github.com/codeclimate/codeclimate,2.4k
+wemake-services,https://github.com/wemake-services,wemake-python-styleguide,https://github.com/wemake-services/wemake-python-styleguide,2.4k

@@ -1,0 +1,21 @@
+username,user link,repo name,repo link,star
+localstack,https://github.com/localstack,localstack,https://github.com/localstack/localstack,50.8k
+harness,https://github.com/harness,gitness,https://github.com/harness/gitness,31k
+jenkinsci,https://github.com/jenkinsci,jenkins,https://github.com/jenkinsci/jenkins,21.9k
+auchenberg,https://github.com/auchenberg,volkswagen,https://github.com/auchenberg/volkswagen,12.8k
+dagger,https://github.com/dagger,dagger,https://github.com/dagger/dagger,9.4k
+openshift,https://github.com/openshift,origin,https://github.com/openshift/origin,8.4k
+concourse,https://github.com/concourse,concourse,https://github.com/concourse/concourse,7.1k
+gocd,https://github.com/gocd,gocd,https://github.com/gocd/gocd,7k
+milanm,https://github.com/milanm,DevOps-Roadmap,https://github.com/milanm/DevOps-Roadmap,6.9k
+gaia-pipeline,https://github.com/gaia-pipeline,gaia,https://github.com/gaia-pipeline/gaia,5.1k
+buildbot,https://github.com/buildbot,buildbot,https://github.com/buildbot/buildbot,5.1k
+Strider-CD,https://github.com/Strider-CD,strider,https://github.com/Strider-CD/strider,4.6k
+jenkins-x,https://github.com/jenkins-x,jx,https://github.com/jenkins-x/jx,4.5k
+ovh,https://github.com/ovh,cds,https://github.com/ovh/cds,4.4k
+JamesIves,https://github.com/JamesIves,github-pages-deploy-action,https://github.com/JamesIves/github-pages-deploy-action,4k
+iterative,https://github.com/iterative,cml,https://github.com/iterative/cml,3.9k
+xcpretty,https://github.com/xcpretty,xcpretty,https://github.com/xcpretty/xcpretty,3.9k
+werf,https://github.com/werf,werf,https://github.com/werf/werf,3.8k
+TheLartians,https://github.com/TheLartians,ModernCppStarter,https://github.com/TheLartians/ModernCppStarter,3.8k
+hygieia,https://github.com/hygieia,hygieia,https://github.com/hygieia/hygieia,3.8k
